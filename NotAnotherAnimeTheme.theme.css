@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-image: url(https://img.freepik.com/premium-photo/cozy-lofi-greenhouse-during-golden-hour_707390-138.jpg);
 
   /*
     Main Theme Color
@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://w7.pngwing.com/pngs/720/83/png-transparent-painting-of-green-leafed-plants-watercolor-painting-icon-watercolor-leaves-watercolor-leaves-leaf-hand.png);
 
   /*
     Change your friends icon image position
@@ -55,7 +55,7 @@
     Triple Column:  184px
     Quad Column:    242px
   */
-  --server-listing-width: 126px;
+  --server-listing-width: 62px;
 
   /*
     Font Size
